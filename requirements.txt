@@ -1,0 +1,5 @@
+tensorflow
+numpy
+pillow
+PyQt5
+pywin32
